@@ -1,9 +1,23 @@
-gitRepoUrl = "https://github.com/uaqtpi/Letus-Documentation"
+title = "Letus Docs"
 
 [home]
 enabled = true
 includeReadme = false
+bannerImage = "https://images-ext-1.discordapp.net/external/OkdlXyUUc3WGhpbkqTksZRu32HBtYQtJzsdDr5iJJ70/%3Fv%3D1640441928/http/www.letusentertainment.com/cdn/shop/files/Web_1920_1_1200x1200.png?format=webp&quality=lossless"
 
 [docusaurus]
-tagline = "Lightweight game framework for Roblox"
-favicon = "/favicon.png"
+tagline = "Documentation hub for products made by Letus Studio"
+favicon = "https://cdn.discordapp.com/attachments/826199726613200957/1404896456011284610/favicon.png?ex=689cdb48&is=689b89c8&hm=06d29d10063607320f13204cece38dce001a7facf9b92e3774278147e37e26a1&"
+
+[[navbar.items]]
+href = "https://discord.gg/wbGw46TnzD"
+label = "Discord"
+position = "right"
+
+[[navbar.items]]
+href = "https://www.letusentertainment.com/"
+label = "Shop"
+position = "right"
+
+[footer]
+copyright = "© 2025 Letus Products, All rights reserved."
