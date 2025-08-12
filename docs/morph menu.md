@@ -61,7 +61,7 @@ Below are a list of each attribute for the system
 
 ### String
 
-**- LogoImage** | Sets your logo for team/divsion (Format: rbxassetid://<your-asset-id>) If attribute is not used, it will attempt to use the group image associated with the team/divsion instead.
+**- LogoImage** | Sets your logo for team/divsion (Format: rbxassetid://asset-id) If attribute is not used, it will attempt to use the group image associated with the team/divsion instead.
 
 **- Spawnpoint** | REQUIRES: "MorphSpawnPoints" folder in workspace | When set in the division or a specific morph, the player will spawn at the custom spawn point defined.
 
