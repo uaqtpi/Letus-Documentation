@@ -1,0 +1,9 @@
+gitRepoUrl = "https://github.com/uaqtpi/Letus-Documentation"
+
+[home]
+enabled = true
+includeReadme = false
+
+[docusaurus]
+tagline = "Lightweight game framework for Roblox"
+favicon = "/favicon.png"
