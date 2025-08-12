@@ -9,12 +9,12 @@ sidebar_position: 4
 ## General Overview
 
 Features
-• Jail and Release Players
-• Drag players while cuffed
-• Rank/User Permissions
-• Players see how much time is left
-• Easy setup
-• Discord Webhook
+- Jail and Release Players
+- Drag players while cuffed
+- Rank/User Permissions
+- Players see how much time is left
+- Easy setup
+- Discord Webhook
 
 Purchase this system [here](https://www.letusentertainment.com/products/jail-system)
 
