@@ -19,6 +19,8 @@ Features
 
 Purchase this system [here](https://www.letusentertainment.com/products/morph-menu)
 
+An extra **unupdated** video tutorial can be found [here](https://youtu.be/lG_zdwzYYw0)
+
 ## Attributes
 
 Below are a list of each attribute for the system
@@ -53,14 +55,16 @@ Below are a list of each attribute for the system
 
 **- UserId** | When set, ONLY that specific user can use that morph/division/team.
 
-**- Gamepassid** | When set, if the user has this gamepass they can use the morph/division/team.
+**- GamepassId** | When set, if the user has this gamepass they can use the morph/division/team.
 
 **- PlayerCap** | When set, limits the amount of users can use the morph/division/team.
 
 ### String
 
+**- LogoImage** | Sets your logo for team/divsion (Format: rbxassetid://<your-asset-id>) If attribute is not used, it will attempt to use the group image associated with the team/divsion instead.
 
+**- Spawnpoint** | REQUIRES: "MorphSpawnPoints" folder in workspace | When set in the division or a specific morph, the player will spawn at the custom spawn point defined.
 
 ### Color3
 
-**- Color** | 
+**- OverheadColor** | When set, the division/team/morph attribute it set on, it sets the users overhead color to the defined color.
